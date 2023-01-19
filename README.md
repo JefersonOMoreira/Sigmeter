@@ -98,10 +98,8 @@ Senha: #######
 [Vertigo](https://blog.vertigo.com.br/o-que-e-api-entenda-de-uma-maneira-simples/ "API")  
 [PHP](https://www.php.net/manual/pt_BR/intro-whatis.php "PHP")
 
-## __Autores__
-Centro Universitário Facens  
-Equipe Técnica *Smart Campus*
-Facens:  
-Alison Meneses dos Santos  
-Matheus Avilla Vial
+
+ 
+
+
 </div>
