@@ -69,7 +69,7 @@ A árvore de elementos foi criada de forma a trabalhar em conjunto com o templat
 
 ### **Servidor**
 
-Ubuntu 16.04.7 LTS com o IP: ```172.16.231.2```
+Ubuntu#######  LTS com o IP: ```###.##.###.#```
 
 ## __Visualização criada no projeto__
 
@@ -80,10 +80,10 @@ O projeto deve receber um call back da Sigfox e inserir os dados no Data Archive
 
 ## __Pontos de Atenção__
  
-Credenciais da <a href="https://dashboard.sigsystems.com.br/login
+Credenciais da <a href="https://dashboard.####### .com.br/####### 
 ">Plataforma da Sigmais</a>   
-Login: smartcampus@facens.br   
-Senha: Smart2017!  
+Login: #######    
+Senha: ####### 
 
 ## __Referências__
 **Sites**:
